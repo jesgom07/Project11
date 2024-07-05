@@ -1,6 +1,6 @@
 // James Dizikes
 // Jessie Gomez
-// CS 1323/1324, Fall 2019
+// CS 1323/1324, Spring 2024
 import java.io.File;
 import java.util.ArrayList;
 import java.io.FileNotFoundException;
